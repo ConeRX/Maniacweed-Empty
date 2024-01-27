@@ -22,7 +22,7 @@
       <CompressSpritesType>None</CompressSpritesType>
       <CrossfadeMusic>No</CrossfadeMusic>
       <CustomDataDir IsNull="True" />
-      <CustomResolution>320,200</CustomResolution>
+      <CustomResolution>320,180</CustomResolution>
       <DebugMode>True</DebugMode>
       <DefaultRoomMaskResolution>1</DefaultRoomMaskResolution>
       <Description />
@@ -660,6 +660,10 @@
             <Description IsNull="True" />
             <Number>2</Number>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Description IsNull="True" />
+            <Number>5</Number>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -673,14 +677,14 @@
               <BackgroundImage>51</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>42</Height>
+              <Height>37</Height>
               <ID>0</ID>
               <Left>0</Left>
               <Name>gMain</Name>
               <OnClick />
               <PopupStyle>Normal</PopupStyle>
               <PopupYPos>0</PopupYPos>
-              <Top>159</Top>
+              <Top>143</Top>
               <Transparency>0</Transparency>
               <Visible>True</Visible>
               <Width>320</Width>
@@ -693,7 +697,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>0</ID>
                 <Image>59</Image>
                 <Left>0</Left>
@@ -706,7 +710,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>1</Top>
+                <Top>0</Top>
                 <Visible>True</Visible>
                 <Width>50</Width>
                 <ZOrder>0</ZOrder>
@@ -717,7 +721,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>1</ID>
                 <Image>61</Image>
                 <Left>0</Left>
@@ -730,7 +734,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>15</Top>
+                <Top>13</Top>
                 <Visible>True</Visible>
                 <Width>50</Width>
                 <ZOrder>1</ZOrder>
@@ -741,7 +745,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>2</ID>
                 <Image>63</Image>
                 <Left>0</Left>
@@ -754,7 +758,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>29</Top>
+                <Top>26</Top>
                 <Visible>True</Visible>
                 <Width>50</Width>
                 <ZOrder>2</ZOrder>
@@ -765,7 +769,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>3</ID>
                 <Image>71</Image>
                 <Left>52</Left>
@@ -778,7 +782,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>1</Top>
+                <Top>0</Top>
                 <Visible>True</Visible>
                 <Width>56</Width>
                 <ZOrder>3</ZOrder>
@@ -789,7 +793,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>4</ID>
                 <Image>73</Image>
                 <Left>52</Left>
@@ -802,7 +806,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>15</Top>
+                <Top>13</Top>
                 <Visible>True</Visible>
                 <Width>56</Width>
                 <ZOrder>4</ZOrder>
@@ -813,7 +817,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>5</ID>
                 <Image>75</Image>
                 <Left>52</Left>
@@ -826,7 +830,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>29</Top>
+                <Top>26</Top>
                 <Visible>True</Visible>
                 <Width>56</Width>
                 <ZOrder>5</ZOrder>
@@ -837,7 +841,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>6</ID>
                 <Image>65</Image>
                 <Left>110</Left>
@@ -850,7 +854,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>1</Top>
+                <Top>0</Top>
                 <Visible>True</Visible>
                 <Width>50</Width>
                 <ZOrder>6</ZOrder>
@@ -861,7 +865,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>7</ID>
                 <Image>67</Image>
                 <Left>110</Left>
@@ -874,7 +878,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>15</Top>
+                <Top>13</Top>
                 <Visible>True</Visible>
                 <Width>50</Width>
                 <ZOrder>7</ZOrder>
@@ -885,7 +889,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>8</ID>
                 <Image>69</Image>
                 <Left>110</Left>
@@ -898,7 +902,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>29</Top>
+                <Top>26</Top>
                 <Visible>True</Visible>
                 <Width>50</Width>
                 <ZOrder>8</ZOrder>
@@ -909,7 +913,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>20</Height>
+                <Height>18</Height>
                 <ID>9</ID>
                 <Image>55</Image>
                 <Left>162</Left>
@@ -922,7 +926,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>1</Top>
+                <Top>0</Top>
                 <Visible>True</Visible>
                 <Width>12</Width>
                 <ZOrder>9</ZOrder>
@@ -933,7 +937,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>20</Height>
+                <Height>18</Height>
                 <ID>10</ID>
                 <Image>56</Image>
                 <Left>162</Left>
@@ -946,7 +950,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>21</Top>
+                <Top>18</Top>
                 <Visible>True</Visible>
                 <Width>12</Width>
                 <ZOrder>10</ZOrder>
@@ -955,7 +959,7 @@
                 <CharacterID>-1</CharacterID>
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
-                <Height>42</Height>
+                <Height>37</Height>
                 <ID>11</ID>
                 <ItemHeight>21</ItemHeight>
                 <ItemWidth>36</ItemWidth>
@@ -975,7 +979,7 @@
               <BackgroundImage>0</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>False</Clickable>
-              <Height>200</Height>
+              <Height>180</Height>
               <ID>1</ID>
               <Left>0</Left>
               <Name>gAction</Name>
@@ -993,7 +997,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>4</Font>
-                <Height>10</Height>
+                <Height>9</Height>
                 <ID>0</ID>
                 <Left>0</Left>
                 <Locked>False</Locked>
@@ -1012,7 +1016,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>19</Height>
+                <Height>17</Height>
                 <ID>1</ID>
                 <Image>95</Image>
                 <Left>300</Left>
@@ -1038,7 +1042,7 @@
               <BackgroundImage>97</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>200</Height>
+              <Height>180</Height>
               <ID>2</ID>
               <Left>0</Left>
               <Name>gOptions</Name>
@@ -1056,7 +1060,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>9</Height>
                 <ID>0</ID>
                 <Left>53</Left>
                 <Locked>False</Locked>
@@ -1064,7 +1068,7 @@
                 <Text>Options</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>31</Top>
+                <Top>27</Top>
                 <Visible>True</Visible>
                 <Width>135</Width>
                 <ZOrder>0</ZOrder>
@@ -1075,7 +1079,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>1</ID>
                 <Image>82</Image>
                 <Left>202</Left>
@@ -1088,7 +1092,7 @@
                 <Text>Default</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>48</Top>
+                <Top>43</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>1</ZOrder>
@@ -1099,7 +1103,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>2</ID>
                 <Image>82</Image>
                 <Left>202</Left>
@@ -1112,7 +1116,7 @@
                 <Text>Save</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>69</Top>
+                <Top>62</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>2</ZOrder>
@@ -1123,7 +1127,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>3</ID>
                 <Image>82</Image>
                 <Left>202</Left>
@@ -1136,7 +1140,7 @@
                 <Text>Load</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>86</Top>
+                <Top>77</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>3</ZOrder>
@@ -1147,7 +1151,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>4</ID>
                 <Image>82</Image>
                 <Left>202</Left>
@@ -1160,7 +1164,7 @@
                 <Text>Quit</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>122</Top>
+                <Top>109</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>4</ZOrder>
@@ -1171,7 +1175,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>5</ID>
                 <Image>82</Image>
                 <Left>202</Left>
@@ -1184,7 +1188,7 @@
                 <Text>Resume</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>141</Top>
+                <Top>126</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>5</ZOrder>
@@ -1193,7 +1197,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>9</Height>
                 <ID>6</ID>
                 <Left>57</Left>
                 <Locked>False</Locked>
@@ -1201,7 +1205,7 @@
                 <Text xml:space="preserve">Music Volume</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>55</Top>
+                <Top>49</Top>
                 <Visible>True</Visible>
                 <Width>132</Width>
                 <ZOrder>6</ZOrder>
@@ -1212,7 +1216,7 @@
                 <Enabled>True</Enabled>
                 <HandleImage>0</HandleImage>
                 <HandleOffset>0</HandleOffset>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>7</ID>
                 <Left>60</Left>
                 <Locked>False</Locked>
@@ -1220,7 +1224,7 @@
                 <MinValue>0</MinValue>
                 <Name>sldOptionsMusic</Name>
                 <OnChange>btnOptions_OnSliderChange</OnChange>
-                <Top>69</Top>
+                <Top>62</Top>
                 <Value>80</Value>
                 <Visible>True</Visible>
                 <Width>120</Width>
@@ -1230,7 +1234,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>9</Height>
                 <ID>8</ID>
                 <Left>57</Left>
                 <Locked>False</Locked>
@@ -1238,7 +1242,7 @@
                 <Text xml:space="preserve">Sound Effects Volume</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>86</Top>
+                <Top>77</Top>
                 <Visible>True</Visible>
                 <Width>130</Width>
                 <ZOrder>8</ZOrder>
@@ -1249,7 +1253,7 @@
                 <Enabled>True</Enabled>
                 <HandleImage>0</HandleImage>
                 <HandleOffset>0</HandleOffset>
-                <Height>13</Height>
+                <Height>11</Height>
                 <ID>9</ID>
                 <Left>60</Left>
                 <Locked>False</Locked>
@@ -1257,7 +1261,7 @@
                 <MinValue>0</MinValue>
                 <Name>sldOptionsSound</Name>
                 <OnChange>btnOptions_OnSliderChange</OnChange>
-                <Top>100</Top>
+                <Top>90</Top>
                 <Value>90</Value>
                 <Visible>True</Visible>
                 <Width>120</Width>
@@ -1267,7 +1271,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>10</ID>
                 <Left>57</Left>
                 <Locked>False</Locked>
@@ -1275,7 +1279,7 @@
                 <Text>Layout</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>116</Top>
+                <Top>104</Top>
                 <Visible>True</Visible>
                 <Width>127</Width>
                 <ZOrder>10</ZOrder>
@@ -1286,7 +1290,7 @@
                 <Enabled>True</Enabled>
                 <HandleImage>0</HandleImage>
                 <HandleOffset>0</HandleOffset>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>11</ID>
                 <Left>95</Left>
                 <Locked>False</Locked>
@@ -1294,7 +1298,7 @@
                 <MinValue>0</MinValue>
                 <Name>sldOptionsStyle</Name>
                 <OnChange>btnOptions_OnSliderChange</OnChange>
-                <Top>128</Top>
+                <Top>115</Top>
                 <Value>1</Value>
                 <Visible>True</Visible>
                 <Width>50</Width>
@@ -1306,7 +1310,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>8</Height>
+                <Height>7</Height>
                 <ID>12</ID>
                 <Image>86</Image>
                 <Left>273</Left>
@@ -1319,7 +1323,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>31</Top>
+                <Top>27</Top>
                 <Visible>True</Visible>
                 <Width>8</Width>
                 <ZOrder>12</ZOrder>
@@ -1328,7 +1332,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>3</Font>
-                <Height>12</Height>
+                <Height>10</Height>
                 <ID>13</ID>
                 <Left>57</Left>
                 <Locked>False</Locked>
@@ -1336,7 +1340,7 @@
                 <Text>Classic</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33808</TextColor>
-                <Top>132</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>39</Width>
                 <ZOrder>13</ZOrder>
@@ -1345,7 +1349,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>3</Font>
-                <Height>9</Height>
+                <Height>8</Height>
                 <ID>14</ID>
                 <Left>145</Left>
                 <Locked>False</Locked>
@@ -1353,7 +1357,7 @@
                 <Text>Modern</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33808</TextColor>
-                <Top>132</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>39</Width>
                 <ZOrder>14</ZOrder>
@@ -1366,7 +1370,7 @@
               <BackgroundImage>80</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>200</Height>
+              <Height>180</Height>
               <ID>3</ID>
               <Left>0</Left>
               <Name>gSave</Name>
@@ -1384,7 +1388,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>9</Height>
                 <ID>0</ID>
                 <Left>45</Left>
                 <Locked>False</Locked>
@@ -1392,7 +1396,7 @@
                 <Text>Save</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>5</Top>
+                <Top>4</Top>
                 <Visible>True</Visible>
                 <Width>228</Width>
                 <ZOrder>0</ZOrder>
@@ -1403,7 +1407,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>42</Height>
+                <Height>37</Height>
                 <ID>1</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1416,7 +1420,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>21</Top>
+                <Top>18</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>1</ZOrder>
@@ -1427,7 +1431,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>2</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1440,7 +1444,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>21</Top>
+                <Top>18</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>2</ZOrder>
@@ -1451,7 +1455,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>3</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1464,7 +1468,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>21</Top>
+                <Top>18</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>3</ZOrder>
@@ -1475,7 +1479,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>4</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1488,7 +1492,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>76</Top>
+                <Top>68</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>4</ZOrder>
@@ -1499,7 +1503,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>5</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1512,7 +1516,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>76</Top>
+                <Top>68</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>5</ZOrder>
@@ -1523,7 +1527,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>6</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1536,7 +1540,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>76</Top>
+                <Top>68</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>6</ZOrder>
@@ -1547,7 +1551,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>7</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1560,7 +1564,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>132</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>7</ZOrder>
@@ -1571,7 +1575,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>8</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1584,7 +1588,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>132</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>8</ZOrder>
@@ -1595,7 +1599,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>9</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1608,7 +1612,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>132</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>9</ZOrder>
@@ -1619,7 +1623,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>10</ID>
                 <Image>82</Image>
                 <Left>122</Left>
@@ -1632,7 +1636,7 @@
                 <Text>Cancel</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>182</Top>
+                <Top>163</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>10</ZOrder>
@@ -1643,7 +1647,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>8</Height>
+                <Height>7</Height>
                 <ID>11</ID>
                 <Image>86</Image>
                 <Left>272</Left>
@@ -1656,7 +1660,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>5</Top>
+                <Top>4</Top>
                 <Visible>True</Visible>
                 <Width>8</Width>
                 <ZOrder>11</ZOrder>
@@ -1669,7 +1673,7 @@
               <BackgroundImage>0</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>200</Height>
+              <Height>180</Height>
               <ID>4</ID>
               <Left>0</Left>
               <Name>gSaveConfirm</Name>
@@ -1689,7 +1693,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>13</Height>
+                <Height>11</Height>
                 <ID>0</ID>
                 <Image>54</Image>
                 <Left>0</Left>
@@ -1713,7 +1717,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>1</ID>
                 <Image>91</Image>
                 <Left>0</Left>
@@ -1726,7 +1730,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>12</Top>
+                <Top>10</Top>
                 <Visible>True</Visible>
                 <Width>14</Width>
                 <ZOrder>1</ZOrder>
@@ -1739,7 +1743,7 @@
               <BackgroundImage>80</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>200</Height>
+              <Height>180</Height>
               <ID>5</ID>
               <Left>0</Left>
               <Name>gLoad</Name>
@@ -1757,7 +1761,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>9</Height>
                 <ID>0</ID>
                 <Left>45</Left>
                 <Locked>False</Locked>
@@ -1765,7 +1769,7 @@
                 <Text>Load</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>5</Top>
+                <Top>4</Top>
                 <Visible>True</Visible>
                 <Width>228</Width>
                 <ZOrder>0</ZOrder>
@@ -1776,7 +1780,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>1</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1789,7 +1793,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>21</Top>
+                <Top>18</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>1</ZOrder>
@@ -1800,7 +1804,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>2</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1813,7 +1817,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>21</Top>
+                <Top>18</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>2</ZOrder>
@@ -1824,7 +1828,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>3</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1837,7 +1841,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>21</Top>
+                <Top>18</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>3</ZOrder>
@@ -1848,7 +1852,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>4</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1861,7 +1865,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>76</Top>
+                <Top>68</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>4</ZOrder>
@@ -1872,7 +1876,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>5</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1885,7 +1889,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>76</Top>
+                <Top>68</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>5</ZOrder>
@@ -1896,7 +1900,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>6</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1909,7 +1913,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>76</Top>
+                <Top>68</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>6</ZOrder>
@@ -1920,7 +1924,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>7</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1933,7 +1937,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>132</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>7</ZOrder>
@@ -1944,7 +1948,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>8</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1957,7 +1961,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>132</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>8</ZOrder>
@@ -1968,7 +1972,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>49</Height>
+                <Height>44</Height>
                 <ID>9</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1981,7 +1985,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>132</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>70</Width>
                 <ZOrder>9</ZOrder>
@@ -1992,7 +1996,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>10</ID>
                 <Image>82</Image>
                 <Left>122</Left>
@@ -2005,7 +2009,7 @@
                 <Text>Cancel</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>182</Top>
+                <Top>163</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>10</ZOrder>
@@ -2016,7 +2020,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>8</Height>
+                <Height>7</Height>
                 <ID>11</ID>
                 <Image>86</Image>
                 <Left>272</Left>
@@ -2029,7 +2033,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>5</Top>
+                <Top>4</Top>
                 <Visible>True</Visible>
                 <Width>8</Width>
                 <ZOrder>11</ZOrder>
@@ -2042,7 +2046,7 @@
               <BackgroundImage>99</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>200</Height>
+              <Height>180</Height>
               <ID>6</ID>
               <Left>0</Left>
               <Name>gQuit</Name>
@@ -2060,7 +2064,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>13</Height>
+                <Height>11</Height>
                 <ID>0</ID>
                 <Left>45</Left>
                 <Locked>False</Locked>
@@ -2068,7 +2072,7 @@
                 <Text xml:space="preserve">Quit Game</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>61</Top>
+                <Top>54</Top>
                 <Visible>True</Visible>
                 <Width>238</Width>
                 <ZOrder>0</ZOrder>
@@ -2077,7 +2081,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>1</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>1</ID>
                 <Left>45</Left>
                 <Locked>False</Locked>
@@ -2085,7 +2089,7 @@
                 <Text xml:space="preserve">Are you sure you want to quit?</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>52895</TextColor>
-                <Top>82</Top>
+                <Top>73</Top>
                 <Visible>True</Visible>
                 <Width>236</Width>
                 <ZOrder>1</ZOrder>
@@ -2096,7 +2100,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>2</ID>
                 <Image>84</Image>
                 <Left>175</Left>
@@ -2109,7 +2113,7 @@
                 <Text>Yes</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>114</Top>
+                <Top>102</Top>
                 <Visible>True</Visible>
                 <Width>49</Width>
                 <ZOrder>2</ZOrder>
@@ -2120,7 +2124,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>14</Height>
+                <Height>12</Height>
                 <ID>3</ID>
                 <Image>84</Image>
                 <Left>229</Left>
@@ -2133,7 +2137,7 @@
                 <Text>No</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>114</Top>
+                <Top>102</Top>
                 <Visible>True</Visible>
                 <Width>49</Width>
                 <ZOrder>3</ZOrder>
@@ -2146,7 +2150,7 @@
               <BackgroundImage>99</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>200</Height>
+              <Height>180</Height>
               <ID>7</ID>
               <Left>0</Left>
               <Name>gPause</Name>
@@ -2164,7 +2168,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>9</Height>
                 <ID>0</ID>
                 <Left>46</Left>
                 <Locked>False</Locked>
@@ -2172,7 +2176,7 @@
                 <Text xml:space="preserve">Game Paused</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>61</Top>
+                <Top>54</Top>
                 <Visible>True</Visible>
                 <Width>236</Width>
                 <ZOrder>0</ZOrder>
@@ -2181,7 +2185,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>1</Font>
-                <Height>20</Height>
+                <Height>18</Height>
                 <ID>1</ID>
                 <Left>46</Left>
                 <Locked>False</Locked>
@@ -2189,7 +2193,7 @@
                 <Text xml:space="preserve">Press &lt;SPACE&gt; to continue</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>52895</TextColor>
-                <Top>98</Top>
+                <Top>88</Top>
                 <Visible>True</Visible>
                 <Width>236</Width>
                 <ZOrder>1</ZOrder>
@@ -2284,6 +2288,24 @@
             <Image>232</Image>
             <Name>iRemoteControl</Name>
             <PlayerStartsWithItem>True</PlayerStartsWithItem>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <CursorImage>0</CursorImage>
+            <Description>Kissen</Description>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <ID>6</ID>
+            <Image>264</Image>
+            <Name>iPillow</Name>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <Properties />
             <Interactions>
               <Event Index="0" />
@@ -2573,7 +2595,7 @@
             <SpeechView>5</SpeechView>
             <StartX>160</StartX>
             <StartY>150</StartY>
-            <StartingRoom>1</StartingRoom>
+            <StartingRoom>5</StartingRoom>
             <ThinkingView>0</ThinkingView>
             <TurnBeforeWalking>True</TurnBeforeWalking>
             <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -6986,7 +7008,182 @@ stop
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
+              <Sprite Slot="264" Width="38" Height="22" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                <Source>
+                  <FileName />
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>22</ImportHeight>
+                  <ImportWidth>38</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>TopLeft</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
             </Sprites>
+          </SpriteFolder>
+          <SpriteFolder Name="rooms">
+            <SubFolders>
+              <SpriteFolder Name="bernards_room">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="254" Width="31" Height="11" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>11</ImportHeight>
+                      <ImportWidth>31</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="255" Width="24" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>12</ImportHeight>
+                      <ImportWidth>24</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="256" Width="24" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>12</ImportHeight>
+                      <ImportWidth>24</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>BottomLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="257" Width="26" Height="96" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>96</ImportHeight>
+                      <ImportWidth>26</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopRight</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="258" Width="33" Height="24" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>24</ImportHeight>
+                      <ImportWidth>33</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="259" Width="33" Height="24" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>24</ImportHeight>
+                      <ImportWidth>33</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="260" Width="18" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>18</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="261" Width="18" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>18</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="262" Width="18" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>18</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="263" Width="18" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName />
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>18</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+            </SubFolders>
+            <Sprites />
           </SpriteFolder>
         </SubFolders>
         <Sprites>
@@ -7358,6 +7555,77 @@ stop
                         <Flipped>False</Flipped>
                         <ID>0</ID>
                         <Image>247</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                    </Frames>
+                  </Loop>
+                </Loops>
+              </View>
+            </Views>
+          </ViewFolder>
+          <ViewFolder Name="Objects">
+            <SubFolders />
+            <Views>
+              <View>
+                <ID>6</ID>
+                <Name>vPerpetuumMobile</Name>
+                <Loops>
+                  <Loop>
+                    <ID>0</ID>
+                    <RunNextLoop>False</RunNextLoop>
+                    <Frames>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>0</ID>
+                        <Image>260</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>1</ID>
+                        <Image>261</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>2</ID>
+                        <Image>262</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>3</ID>
+                        <Image>263</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                    </Frames>
+                  </Loop>
+                </Loops>
+              </View>
+              <View>
+                <ID>7</ID>
+                <Name>vComputerMonitor</Name>
+                <Loops>
+                  <Loop>
+                    <ID>0</ID>
+                    <RunNextLoop>False</RunNextLoop>
+                    <Frames>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>0</ID>
+                        <Image>258</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>1</ID>
+                        <Image>259</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
                     </Frames>
