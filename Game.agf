@@ -674,17 +674,17 @@
           <GUIMain>
             <NormalGUI>
               <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>51</BackgroundImage>
+              <BackgroundImage>0</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>37</Height>
+              <Height>50</Height>
               <ID>0</ID>
               <Left>0</Left>
               <Name>gMain</Name>
-              <OnClick />
+              <OnClick>gMain_OnClick</OnClick>
               <PopupStyle>Normal</PopupStyle>
               <PopupYPos>0</PopupYPos>
-              <Top>143</Top>
+              <Top>133</Top>
               <Transparency>0</Transparency>
               <Visible>True</Visible>
               <Width>320</Width>
@@ -697,7 +697,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>0</ID>
                 <Image>59</Image>
                 <Left>0</Left>
@@ -710,10 +710,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>0</Top>
+                <Top>1</Top>
                 <Visible>True</Visible>
-                <Width>50</Width>
-                <ZOrder>0</ZOrder>
+                <Width>40</Width>
+                <ZOrder>1</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -721,7 +721,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>1</ID>
                 <Image>61</Image>
                 <Left>0</Left>
@@ -734,10 +734,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>13</Top>
+                <Top>17</Top>
                 <Visible>True</Visible>
-                <Width>50</Width>
-                <ZOrder>1</ZOrder>
+                <Width>40</Width>
+                <ZOrder>2</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -745,7 +745,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>2</ID>
                 <Image>63</Image>
                 <Left>0</Left>
@@ -758,10 +758,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>26</Top>
+                <Top>33</Top>
                 <Visible>True</Visible>
-                <Width>50</Width>
-                <ZOrder>2</ZOrder>
+                <Width>40</Width>
+                <ZOrder>3</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -769,10 +769,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>3</ID>
                 <Image>71</Image>
-                <Left>52</Left>
+                <Left>40</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnVerb4</Name>
@@ -782,10 +782,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>0</Top>
+                <Top>1</Top>
                 <Visible>True</Visible>
-                <Width>56</Width>
-                <ZOrder>3</ZOrder>
+                <Width>64</Width>
+                <ZOrder>4</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -793,10 +793,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>4</ID>
                 <Image>73</Image>
-                <Left>52</Left>
+                <Left>40</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnVerb5</Name>
@@ -806,10 +806,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>13</Top>
+                <Top>17</Top>
                 <Visible>True</Visible>
-                <Width>56</Width>
-                <ZOrder>4</ZOrder>
+                <Width>64</Width>
+                <ZOrder>5</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -817,10 +817,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>5</ID>
                 <Image>75</Image>
-                <Left>52</Left>
+                <Left>40</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnVerb6</Name>
@@ -830,10 +830,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>26</Top>
+                <Top>33</Top>
                 <Visible>True</Visible>
-                <Width>56</Width>
-                <ZOrder>5</ZOrder>
+                <Width>64</Width>
+                <ZOrder>6</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -841,10 +841,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>6</ID>
                 <Image>65</Image>
-                <Left>110</Left>
+                <Left>104</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnVerb7</Name>
@@ -854,10 +854,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>0</Top>
+                <Top>1</Top>
                 <Visible>True</Visible>
-                <Width>50</Width>
-                <ZOrder>6</ZOrder>
+                <Width>40</Width>
+                <ZOrder>7</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -865,10 +865,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>7</ID>
                 <Image>67</Image>
-                <Left>110</Left>
+                <Left>104</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnVerb8</Name>
@@ -878,10 +878,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>13</Top>
+                <Top>17</Top>
                 <Visible>True</Visible>
-                <Width>50</Width>
-                <ZOrder>7</ZOrder>
+                <Width>40</Width>
+                <ZOrder>8</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -889,10 +889,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>10</Height>
+                <Height>14</Height>
                 <ID>8</ID>
                 <Image>69</Image>
-                <Left>110</Left>
+                <Left>104</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnVerb9</Name>
@@ -902,10 +902,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>26</Top>
+                <Top>33</Top>
                 <Visible>True</Visible>
-                <Width>50</Width>
-                <ZOrder>8</ZOrder>
+                <Width>39</Width>
+                <ZOrder>9</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -913,10 +913,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>23</Height>
                 <ID>9</ID>
                 <Image>55</Image>
-                <Left>162</Left>
+                <Left>145</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnInvUp</Name>
@@ -926,10 +926,10 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>0</Top>
+                <Top>1</Top>
                 <Visible>True</Visible>
-                <Width>12</Width>
-                <ZOrder>9</ZOrder>
+                <Width>14</Width>
+                <ZOrder>10</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -937,10 +937,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>23</Height>
                 <ID>10</ID>
                 <Image>56</Image>
-                <Left>162</Left>
+                <Left>145</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>btnInvDown</Name>
@@ -950,27 +950,51 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>18</Top>
+                <Top>26</Top>
                 <Visible>True</Visible>
-                <Width>12</Width>
-                <ZOrder>10</ZOrder>
+                <Width>14</Width>
+                <ZOrder>11</ZOrder>
               </GUIButton>
               <GUIInventory>
                 <CharacterID>-1</CharacterID>
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
-                <Height>37</Height>
+                <Height>44</Height>
                 <ID>11</ID>
-                <ItemHeight>21</ItemHeight>
-                <ItemWidth>36</ItemWidth>
-                <Left>176</Left>
+                <ItemHeight>24</ItemHeight>
+                <ItemWidth>40</ItemWidth>
+                <Left>162</Left>
                 <Locked>False</Locked>
                 <Name>invMain</Name>
-                <Top>0</Top>
+                <Top>1</Top>
                 <Visible>True</Visible>
-                <Width>144</Width>
-                <ZOrder>11</ZOrder>
+                <Width>158</Width>
+                <ZOrder>12</ZOrder>
               </GUIInventory>
+              <GUIButton>
+                <ClickAction>NoAction</ClickAction>
+                <Clickable>False</Clickable>
+                <ClipImage>False</ClipImage>
+                <Enabled>True</Enabled>
+                <Font>0</Font>
+                <Height>47</Height>
+                <ID>12</ID>
+                <Image>265</Image>
+                <Left>162</Left>
+                <Locked>False</Locked>
+                <MouseoverImage>0</MouseoverImage>
+                <Name>btnInventoryBG</Name>
+                <NewModeNumber>0</NewModeNumber>
+                <OnClick />
+                <PushedImage>0</PushedImage>
+                <Text />
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Top>1</Top>
+                <Visible>True</Visible>
+                <Width>158</Width>
+                <ZOrder>0</ZOrder>
+              </GUIButton>
             </Controls>
           </GUIMain>
           <GUIMain>
@@ -1016,7 +1040,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>1</ID>
                 <Image>95</Image>
                 <Left>300</Left>
@@ -1062,13 +1086,13 @@
                 <Font>0</Font>
                 <Height>9</Height>
                 <ID>0</ID>
-                <Left>53</Left>
+                <Left>57</Left>
                 <Locked>False</Locked>
                 <Name>lblOptions</Name>
                 <Text>Options</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>27</Top>
+                <Top>32</Top>
                 <Visible>True</Visible>
                 <Width>135</Width>
                 <ZOrder>0</ZOrder>
@@ -1082,7 +1106,7 @@
                 <Height>12</Height>
                 <ID>1</ID>
                 <Image>82</Image>
-                <Left>202</Left>
+                <Left>196</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>98</MouseoverImage>
                 <Name>btnOptionsDefault</Name>
@@ -1092,7 +1116,7 @@
                 <Text>Default</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>43</Top>
+                <Top>49</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>1</ZOrder>
@@ -1106,7 +1130,7 @@
                 <Height>12</Height>
                 <ID>2</ID>
                 <Image>82</Image>
-                <Left>202</Left>
+                <Left>196</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>98</MouseoverImage>
                 <Name>btnOptionsSave</Name>
@@ -1116,7 +1140,7 @@
                 <Text>Save</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>62</Top>
+                <Top>67</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>2</ZOrder>
@@ -1130,7 +1154,7 @@
                 <Height>12</Height>
                 <ID>3</ID>
                 <Image>82</Image>
-                <Left>202</Left>
+                <Left>196</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>98</MouseoverImage>
                 <Name>btnOptionsLoad</Name>
@@ -1140,7 +1164,7 @@
                 <Text>Load</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>77</Top>
+                <Top>84</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>3</ZOrder>
@@ -1154,7 +1178,7 @@
                 <Height>12</Height>
                 <ID>4</ID>
                 <Image>82</Image>
-                <Left>202</Left>
+                <Left>196</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>98</MouseoverImage>
                 <Name>btnOptionsQuit</Name>
@@ -1164,7 +1188,7 @@
                 <Text>Quit</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>109</Top>
+                <Top>126</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>4</ZOrder>
@@ -1178,7 +1202,7 @@
                 <Height>12</Height>
                 <ID>5</ID>
                 <Image>82</Image>
-                <Left>202</Left>
+                <Left>196</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>98</MouseoverImage>
                 <Name>btnOptionsResume</Name>
@@ -1188,7 +1212,7 @@
                 <Text>Resume</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>126</Top>
+                <Top>143</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>5</ZOrder>
@@ -1205,7 +1229,7 @@
                 <Text xml:space="preserve">Music Volume</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>49</Top>
+                <Top>55</Top>
                 <Visible>True</Visible>
                 <Width>132</Width>
                 <ZOrder>6</ZOrder>
@@ -1224,7 +1248,7 @@
                 <MinValue>0</MinValue>
                 <Name>sldOptionsMusic</Name>
                 <OnChange>btnOptions_OnSliderChange</OnChange>
-                <Top>62</Top>
+                <Top>67</Top>
                 <Value>80</Value>
                 <Visible>True</Visible>
                 <Width>120</Width>
@@ -1242,7 +1266,7 @@
                 <Text xml:space="preserve">Sound Effects Volume</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>77</Top>
+                <Top>84</Top>
                 <Visible>True</Visible>
                 <Width>130</Width>
                 <ZOrder>8</ZOrder>
@@ -1261,7 +1285,7 @@
                 <MinValue>0</MinValue>
                 <Name>sldOptionsSound</Name>
                 <OnChange>btnOptions_OnSliderChange</OnChange>
-                <Top>90</Top>
+                <Top>98</Top>
                 <Value>90</Value>
                 <Visible>True</Visible>
                 <Width>120</Width>
@@ -1279,7 +1303,7 @@
                 <Text>Layout</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>104</Top>
+                <Top>114</Top>
                 <Visible>True</Visible>
                 <Width>127</Width>
                 <ZOrder>10</ZOrder>
@@ -1298,7 +1322,7 @@
                 <MinValue>0</MinValue>
                 <Name>sldOptionsStyle</Name>
                 <OnChange>btnOptions_OnSliderChange</OnChange>
-                <Top>115</Top>
+                <Top>126</Top>
                 <Value>1</Value>
                 <Visible>True</Visible>
                 <Width>50</Width>
@@ -1313,7 +1337,7 @@
                 <Height>7</Height>
                 <ID>12</ID>
                 <Image>86</Image>
-                <Left>273</Left>
+                <Left>271</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>87</MouseoverImage>
                 <Name>btnOptionsClose</Name>
@@ -1323,7 +1347,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>27</Top>
+                <Top>32</Top>
                 <Visible>True</Visible>
                 <Width>8</Width>
                 <ZOrder>12</ZOrder>
@@ -1340,7 +1364,7 @@
                 <Text>Classic</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33808</TextColor>
-                <Top>118</Top>
+                <Top>126</Top>
                 <Visible>True</Visible>
                 <Width>39</Width>
                 <ZOrder>13</ZOrder>
@@ -1351,13 +1375,13 @@
                 <Font>3</Font>
                 <Height>8</Height>
                 <ID>14</ID>
-                <Left>145</Left>
+                <Left>147</Left>
                 <Locked>False</Locked>
                 <Name>lblOptionsGuiModern</Name>
                 <Text>Modern</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33808</TextColor>
-                <Top>118</Top>
+                <Top>126</Top>
                 <Visible>True</Visible>
                 <Width>39</Width>
                 <ZOrder>14</ZOrder>
@@ -1370,7 +1394,7 @@
               <BackgroundImage>80</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>180</Height>
+              <Height>200</Height>
               <ID>3</ID>
               <Left>0</Left>
               <Name>gSave</Name>
@@ -1390,13 +1414,13 @@
                 <Font>0</Font>
                 <Height>9</Height>
                 <ID>0</ID>
-                <Left>45</Left>
+                <Left>50</Left>
                 <Locked>False</Locked>
                 <Name>lblSave</Name>
                 <Text>Save</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>4</Top>
+                <Top>6</Top>
                 <Visible>True</Visible>
                 <Width>228</Width>
                 <ZOrder>0</ZOrder>
@@ -1636,7 +1660,7 @@
                 <Text>Cancel</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>163</Top>
+                <Top>182</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>10</ZOrder>
@@ -1650,7 +1674,7 @@
                 <Height>7</Height>
                 <ID>11</ID>
                 <Image>86</Image>
-                <Left>272</Left>
+                <Left>269</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>87</MouseoverImage>
                 <Name>btnSaveClose</Name>
@@ -1693,7 +1717,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>14</Height>
                 <ID>0</ID>
                 <Image>54</Image>
                 <Left>0</Left>
@@ -1717,7 +1741,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>12</Height>
+                <Height>14</Height>
                 <ID>1</ID>
                 <Image>91</Image>
                 <Left>0</Left>
@@ -1730,7 +1754,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>10</Top>
+                <Top>13</Top>
                 <Visible>True</Visible>
                 <Width>14</Width>
                 <ZOrder>1</ZOrder>
@@ -1743,7 +1767,7 @@
               <BackgroundImage>80</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>180</Height>
+              <Height>200</Height>
               <ID>5</ID>
               <Left>0</Left>
               <Name>gLoad</Name>
@@ -1769,7 +1793,7 @@
                 <Text>Load</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>4</Top>
+                <Top>6</Top>
                 <Visible>True</Visible>
                 <Width>228</Width>
                 <ZOrder>0</ZOrder>
@@ -1999,7 +2023,7 @@
                 <Height>12</Height>
                 <ID>10</ID>
                 <Image>82</Image>
-                <Left>122</Left>
+                <Left>124</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>98</MouseoverImage>
                 <Name>btnLoadCancel</Name>
@@ -2009,7 +2033,7 @@
                 <Text>Cancel</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>163</Top>
+                <Top>182</Top>
                 <Visible>True</Visible>
                 <Width>79</Width>
                 <ZOrder>10</ZOrder>
@@ -2072,7 +2096,7 @@
                 <Text xml:space="preserve">Quit Game</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>54</Top>
+                <Top>62</Top>
                 <Visible>True</Visible>
                 <Width>238</Width>
                 <ZOrder>0</ZOrder>
@@ -2089,7 +2113,7 @@
                 <Text xml:space="preserve">Are you sure you want to quit?</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>52895</TextColor>
-                <Top>73</Top>
+                <Top>84</Top>
                 <Visible>True</Visible>
                 <Width>236</Width>
                 <ZOrder>1</ZOrder>
@@ -2103,7 +2127,7 @@
                 <Height>12</Height>
                 <ID>2</ID>
                 <Image>84</Image>
-                <Left>175</Left>
+                <Left>176</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>100</MouseoverImage>
                 <Name>btnQuitYes</Name>
@@ -2113,7 +2137,7 @@
                 <Text>Yes</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>102</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>49</Width>
                 <ZOrder>2</ZOrder>
@@ -2137,7 +2161,7 @@
                 <Text>No</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>102</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
                 <Width>49</Width>
                 <ZOrder>3</ZOrder>
@@ -2176,7 +2200,7 @@
                 <Text xml:space="preserve">Game Paused</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>54</Top>
+                <Top>62</Top>
                 <Visible>True</Visible>
                 <Width>236</Width>
                 <ZOrder>0</ZOrder>
@@ -2193,7 +2217,7 @@
                 <Text xml:space="preserve">Press &lt;SPACE&gt; to continue</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>52895</TextColor>
-                <Top>88</Top>
+                <Top>114</Top>
                 <Visible>True</Visible>
                 <Width>236</Width>
                 <ZOrder>1</ZOrder>
@@ -4289,273 +4313,273 @@ stop
               <SpriteFolder Name="en">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="59" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="59" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="60" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="60" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="61" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="61" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="62" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="62" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="63" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="63" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="64" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="64" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="65" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="65" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="66" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="66" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="67" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="67" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="68" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="68" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="69" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="69" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="70" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="70" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="71" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="71" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="72" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="72" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="73" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="73" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="74" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="74" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="75" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="75" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="76" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="76" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -4884,273 +4908,273 @@ stop
               <SpriteFolder Name="de">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="94" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="94" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="101" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="101" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="102" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="102" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="103" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="103" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="104" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="104" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="105" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="105" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="106" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="106" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="107" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="107" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="108" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="108" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="109" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="109" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="110" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="110" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="111" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="111" Width="64" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>50</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>64</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="112" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="112" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="113" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="113" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="114" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="114" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="115" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="115" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="116" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="116" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="117" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="117" Width="40" Height="14" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>56</ImportWidth>
+                      <ImportHeight>14</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -6823,43 +6847,43 @@ stop
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="52" Width="12" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
-                <Source>
-                  <FileName>assets/gui/arrow_up_off.png</FileName>
-                  <OffsetX>0</OffsetX>
-                  <OffsetY>0</OffsetY>
-                  <ImportHeight>19</ImportHeight>
-                  <ImportWidth>12</ImportWidth>
-                  <ImportAsTile>False</ImportAsTile>
-                  <Frame>0</Frame>
-                  <RemapToGamePalette>False</RemapToGamePalette>
-                  <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>True</ImportAlphaChannel>
-                </Source>
-              </Sprite>
-              <Sprite Slot="53" Width="12" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
-                <Source>
-                  <FileName>assets/gui/arrow_down_off.png</FileName>
-                  <OffsetX>0</OffsetX>
-                  <OffsetY>0</OffsetY>
-                  <ImportHeight>19</ImportHeight>
-                  <ImportWidth>12</ImportWidth>
-                  <ImportAsTile>False</ImportAsTile>
-                  <Frame>0</Frame>
-                  <RemapToGamePalette>False</RemapToGamePalette>
-                  <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>True</ImportAlphaChannel>
-                </Source>
-              </Sprite>
-              <Sprite Slot="55" Width="12" Height="20" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="52" Width="14" Height="23" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                 <Source>
                   <FileName />
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
-                  <ImportHeight>20</ImportHeight>
-                  <ImportWidth>12</ImportWidth>
+                  <ImportHeight>23</ImportHeight>
+                  <ImportWidth>14</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="53" Width="14" Height="23" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                <Source>
+                  <FileName />
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>23</ImportHeight>
+                  <ImportWidth>14</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="55" Width="14" Height="23" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                <Source>
+                  <FileName />
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>23</ImportHeight>
+                  <ImportWidth>14</ImportWidth>
                   <ImportAsTile>False</ImportAsTile>
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
@@ -6868,13 +6892,13 @@ stop
                   <ImportAlphaChannel>False</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="56" Width="12" Height="20" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="56" Width="14" Height="23" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                 <Source>
                   <FileName />
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
-                  <ImportHeight>20</ImportHeight>
-                  <ImportWidth>12</ImportWidth>
+                  <ImportHeight>23</ImportHeight>
+                  <ImportWidth>14</ImportWidth>
                   <ImportAsTile>False</ImportAsTile>
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
@@ -6925,6 +6949,21 @@ stop
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="265" Width="158" Height="47" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                <Source>
+                  <FileName />
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>47</ImportHeight>
+                  <ImportWidth>158</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>BottomLeft</ImportMethod>
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
