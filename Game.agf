@@ -783,7 +783,7 @@
               <OnClick>gMain_OnClick</OnClick>
               <PopupStyle>Normal</PopupStyle>
               <PopupYPos>0</PopupYPos>
-              <Top>132</Top>
+              <Top>133</Top>
               <Transparency>0</Transparency>
               <Visible>True</Visible>
               <Width>320</Width>
