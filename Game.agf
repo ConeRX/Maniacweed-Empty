@@ -59,7 +59,7 @@
       <PlaySoundOnScore>0</PlaySoundOnScore>
       <ReleaseDate>2007-08-19</ReleaseDate>
       <RenderAtScreenResolution>UserDefined</RenderAtScreenResolution>
-      <RoomTransition>FadeOutAndIn</RoomTransition>
+      <RoomTransition>CrossFade</RoomTransition>
       <RunGameLoopsWhileDialogOptionsDisplayed>True</RunGameLoopsWhileDialogOptionsDisplayed>
       <SaveGameFileExtension />
       <SaveGameFolderName xml:space="preserve">Bernard - Maniacweed - Starterpack</SaveGameFolderName>
