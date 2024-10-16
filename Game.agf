@@ -1206,7 +1206,7 @@
                 <Text>Options</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>31</Top>
+                <Top>32</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>135</Width>
@@ -1218,7 +1218,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>14</Height>
                 <ID>1</ID>
                 <Image>82</Image>
                 <Left>196</Left>
@@ -1243,7 +1243,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>14</Height>
                 <ID>2</ID>
                 <Image>82</Image>
                 <Left>196</Left>
@@ -1268,7 +1268,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>14</Height>
                 <ID>3</ID>
                 <Image>82</Image>
                 <Left>196</Left>
@@ -1293,7 +1293,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>14</Height>
                 <ID>4</ID>
                 <Image>82</Image>
                 <Left>196</Left>
@@ -1318,7 +1318,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>14</Height>
                 <ID>5</ID>
                 <Image>82</Image>
                 <Left>196</Left>
@@ -1349,7 +1349,7 @@
                 <Text xml:space="preserve">Music Volume</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>54</Top>
+                <Top>56</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>132</Width>
@@ -1369,7 +1369,7 @@
                 <MinValue>0</MinValue>
                 <Name>sldOptionsMusic</Name>
                 <OnChange>btnOptions_OnSliderChange</OnChange>
-                <Top>66</Top>
+                <Top>68</Top>
                 <Translated>True</Translated>
                 <Value>80</Value>
                 <Visible>True</Visible>
@@ -1388,7 +1388,7 @@
                 <Text xml:space="preserve">Sound Effects Volume</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>83</Top>
+                <Top>85</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>130</Width>
@@ -1427,7 +1427,7 @@
                 <Text>Layout</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>33776</TextColor>
-                <Top>113</Top>
+                <Top>115</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>127</Width>
@@ -1460,7 +1460,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>6</Height>
+                <Height>8</Height>
                 <ID>12</ID>
                 <Image>86</Image>
                 <Left>271</Left>
@@ -1473,7 +1473,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>31</Top>
+                <Top>32</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>8</Width>
@@ -1543,7 +1543,7 @@
                 <Font>0</Font>
                 <Height>9</Height>
                 <ID>0</ID>
-                <Left>50</Left>
+                <Left>45</Left>
                 <Locked>False</Locked>
                 <Name>lblSave</Name>
                 <Text>Save</Text>
@@ -2201,7 +2201,7 @@
                 <Height>8</Height>
                 <ID>11</ID>
                 <Image>86</Image>
-                <Left>272</Left>
+                <Left>269</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>87</MouseoverImage>
                 <Name>btnLoadClose</Name>
@@ -2251,7 +2251,7 @@
                 <Text xml:space="preserve">Quit Game</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>61</Top>
+                <Top>62</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>238</Width>
@@ -2281,7 +2281,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>14</Height>
                 <ID>2</ID>
                 <Image>84</Image>
                 <Left>176</Left>
@@ -2306,7 +2306,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>11</Height>
+                <Height>14</Height>
                 <ID>3</ID>
                 <Image>84</Image>
                 <Left>229</Left>
@@ -2359,7 +2359,7 @@
                 <Text xml:space="preserve">Game Paused</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>61</Top>
+                <Top>62</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>236</Width>
@@ -2514,7 +2514,7 @@
                 <Text xml:space="preserve">Restart Game</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>61</Top>
+                <Top>62</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>238</Width>
