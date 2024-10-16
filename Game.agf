@@ -1523,7 +1523,7 @@
               <BackgroundImage>80</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>199</Height>
+              <Height>180</Height>
               <ID>3</ID>
               <Left>0</Left>
               <Name>gSave</Name>
@@ -1549,7 +1549,7 @@
                 <Text>Save</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>5</Top>
+                <Top>6</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>228</Width>
@@ -1561,7 +1561,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>36</Height>
+                <Height>49</Height>
                 <ID>1</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1574,7 +1574,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>18</Top>
+                <Top>21</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1586,7 +1586,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>2</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1599,7 +1599,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>18</Top>
+                <Top>21</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1611,7 +1611,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>3</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1624,7 +1624,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>18</Top>
+                <Top>21</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1636,7 +1636,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>4</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1649,7 +1649,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>67</Top>
+                <Top>72</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1661,7 +1661,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>5</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1674,7 +1674,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>67</Top>
+                <Top>72</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1686,7 +1686,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>6</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1699,7 +1699,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>67</Top>
+                <Top>72</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1711,7 +1711,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>7</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1724,7 +1724,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>117</Top>
+                <Top>124</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1736,7 +1736,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>8</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1749,7 +1749,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>117</Top>
+                <Top>124</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1761,7 +1761,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>9</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -1774,7 +1774,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>117</Top>
+                <Top>124</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1789,7 +1789,7 @@
                 <Height>11</Height>
                 <ID>10</ID>
                 <Image>82</Image>
-                <Left>122</Left>
+                <Left>127</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>98</MouseoverImage>
                 <Name>btnSaveCancel</Name>
@@ -1799,9 +1799,9 @@
                 <Text>Cancel</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>181</Top>
+                <Top>33</Top>
                 <Translated>True</Translated>
-                <Visible>True</Visible>
+                <Visible>False</Visible>
                 <Width>79</Width>
                 <ZOrder>10</ZOrder>
               </GUIButton>
@@ -1811,7 +1811,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>6</Height>
+                <Height>8</Height>
                 <ID>11</ID>
                 <Image>86</Image>
                 <Left>269</Left>
@@ -1824,7 +1824,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>3</Top>
+                <Top>6</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>8</Width>
@@ -1910,7 +1910,7 @@
               <BackgroundImage>80</BackgroundImage>
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
-              <Height>199</Height>
+              <Height>180</Height>
               <ID>5</ID>
               <Left>0</Left>
               <Name>gLoad</Name>
@@ -1936,7 +1936,7 @@
                 <Text>Load</Text>
                 <TextAlignment>Center</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>5</Top>
+                <Top>6</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>228</Width>
@@ -1948,7 +1948,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>1</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -1961,7 +1961,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>18</Top>
+                <Top>21</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1973,7 +1973,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>2</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -1986,7 +1986,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>18</Top>
+                <Top>21</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -1998,7 +1998,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>3</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -2011,7 +2011,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>18</Top>
+                <Top>21</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -2023,7 +2023,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>4</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -2036,7 +2036,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>67</Top>
+                <Top>72</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -2048,7 +2048,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>5</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -2061,7 +2061,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>67</Top>
+                <Top>72</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -2073,7 +2073,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>6</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -2086,7 +2086,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>67</Top>
+                <Top>72</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -2098,7 +2098,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>7</ID>
                 <Image>81</Image>
                 <Left>50</Left>
@@ -2111,7 +2111,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>117</Top>
+                <Top>124</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -2123,7 +2123,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>8</ID>
                 <Image>81</Image>
                 <Left>127</Left>
@@ -2136,7 +2136,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>117</Top>
+                <Top>124</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -2148,7 +2148,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>43</Height>
+                <Height>49</Height>
                 <ID>9</ID>
                 <Image>81</Image>
                 <Left>204</Left>
@@ -2161,7 +2161,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>117</Top>
+                <Top>124</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>70</Width>
@@ -2176,7 +2176,7 @@
                 <Height>11</Height>
                 <ID>10</ID>
                 <Image>82</Image>
-                <Left>124</Left>
+                <Left>142</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>98</MouseoverImage>
                 <Name>btnLoadCancel</Name>
@@ -2186,9 +2186,9 @@
                 <Text>Cancel</Text>
                 <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
-                <Top>181</Top>
+                <Top>34</Top>
                 <Translated>True</Translated>
-                <Visible>True</Visible>
+                <Visible>False</Visible>
                 <Width>79</Width>
                 <ZOrder>10</ZOrder>
               </GUIButton>
@@ -2198,7 +2198,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>6</Height>
+                <Height>8</Height>
                 <ID>11</ID>
                 <Image>86</Image>
                 <Left>272</Left>
@@ -2211,7 +2211,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>3</Top>
+                <Top>6</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>8</Width>
@@ -4412,12 +4412,12 @@
               <SpriteFolder Name="Options">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="80" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="80" Width="320" Height="180" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>assets/gui/save_background.png</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>200</ImportHeight>
+                      <ImportHeight>180</ImportHeight>
                       <ImportWidth>320</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
