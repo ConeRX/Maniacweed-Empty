@@ -1883,7 +1883,7 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>13</Height>
+                <Height>14</Height>
                 <ID>1</ID>
                 <Image>91</Image>
                 <Left>0</Left>
@@ -1896,7 +1896,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>12</Top>
+                <Top>13</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>14</Width>
@@ -4412,9 +4412,9 @@
               <SpriteFolder Name="Options">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="80" Width="320" Height="180" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="80" Width="320" Height="180" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Z:\mmm\assets\gui\saveloadgui_tumbleweed_mmm.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>180</ImportHeight>
