@@ -169,10 +169,6 @@ struct Doors {
   import static int    AnyClickSpecial (int door_id, int act_object, int x, int y, CharacterDirection dir, int nr_room, int nr_x, int nr_y, CharacterDirection nr_dir, AudioClip *opensound, AudioClip *closesound, int key, int closevalue);
 };
 
-// ============================= Extender function(s) =========================================
-import void EnterRoom(this Character*, int newRoom, int x, int y, CharacterDirection dir);
-
-
 // ============================= Verb GUI functions ============================================
 struct Verbs {
 // ============================= Module Configuration ==========================================
