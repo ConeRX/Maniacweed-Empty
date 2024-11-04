@@ -658,6 +658,10 @@
                 <Description xml:space="preserve">Start Screen</Description>
                 <Number>1</Number>
               </UnloadedRoom>
+              <UnloadedRoom>
+                <Description xml:space="preserve">Credits screen</Description>
+                <Number>20</Number>
+              </UnloadedRoom>
             </UnloadedRooms>
           </UnloadedRoomFolder>
           <UnloadedRoomFolder Name="Bernoullis">
@@ -9067,6 +9071,30 @@
           </ScriptFolder>
         </SubFolders>
         <ScriptAndHeaders>
+          <ScriptAndHeader>
+            <ScriptAndHeader_Header>
+              <Script>
+                <FileName>Credits.ash</FileName>
+                <Name>Credits</Name>
+                <Description>Credits script module, to replace the plugin</Description>
+                <Author>SSH</Author>
+                <Version>1.19</Version>
+                <Key>1133520312</Key>
+                <IsHeader>True</IsHeader>
+              </Script>
+            </ScriptAndHeader_Header>
+            <ScriptAndHeader_Script>
+              <Script>
+                <FileName>Credits.asc</FileName>
+                <Name>Credits</Name>
+                <Description>Credits script module, to replace the plugin</Description>
+                <Author>SSH</Author>
+                <Version>1.19</Version>
+                <Key>1133520312</Key>
+                <IsHeader>False</IsHeader>
+              </Script>
+            </ScriptAndHeader_Script>
+          </ScriptAndHeader>
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
