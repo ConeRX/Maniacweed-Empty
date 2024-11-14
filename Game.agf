@@ -3446,7 +3446,7 @@
         </GlobalVariable>
         <GlobalVariable>
           <DefaultValue>14</DefaultValue>
-          <Name>BernHallFistFloor</Name>
+          <Name>BernHallFirstFloor</Name>
           <Type>int</Type>
         </GlobalVariable>
         <GlobalVariable>
