@@ -1352,7 +1352,7 @@
                 <Name>lblOptionsMusic</Name>
                 <Text xml:space="preserve">Music Volume</Text>
                 <TextAlignment>Center</TextAlignment>
-                <TextColor>33776</TextColor>
+                <TextColor>0</TextColor>
                 <Top>56</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
@@ -1391,7 +1391,7 @@
                 <Name>lblOptionsSound</Name>
                 <Text xml:space="preserve">Sound Effects Volume</Text>
                 <TextAlignment>Center</TextAlignment>
-                <TextColor>33776</TextColor>
+                <TextColor>0</TextColor>
                 <Top>85</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
@@ -1430,7 +1430,7 @@
                 <Name>lblOptionsStyle</Name>
                 <Text>Layout</Text>
                 <TextAlignment>Center</TextAlignment>
-                <TextColor>33776</TextColor>
+                <TextColor>0</TextColor>
                 <Top>115</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
@@ -1494,7 +1494,7 @@
                 <Name>lblOptionsGuiClassic</Name>
                 <Text>Classic</Text>
                 <TextAlignment>Center</TextAlignment>
-                <TextColor>33808</TextColor>
+                <TextColor>15</TextColor>
                 <Top>126</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
@@ -1512,7 +1512,7 @@
                 <Name>lblOptionsGuiModern</Name>
                 <Text>Modern</Text>
                 <TextAlignment>Center</TextAlignment>
-                <TextColor>33808</TextColor>
+                <TextColor>15</TextColor>
                 <Top>126</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
