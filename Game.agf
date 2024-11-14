@@ -8118,6 +8118,32 @@
             <SubFolders />
             <Views>
               <View>
+                <ID>2</ID>
+                <Name>SkyScraper</Name>
+                <Loops>
+                  <Loop>
+                    <ID>0</ID>
+                    <RunNextLoop>False</RunNextLoop>
+                    <Frames>
+                      <ViewFrame>
+                        <Delay>50</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>0</ID>
+                        <Image>331</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>100</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>1</ID>
+                        <Image>330</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                    </Frames>
+                  </Loop>
+                </Loops>
+              </View>
+              <View>
                 <ID>6</ID>
                 <Name>vPerpetuumMobile</Name>
                 <Loops>
@@ -8177,32 +8203,6 @@
                         <Flipped>False</Flipped>
                         <ID>1</ID>
                         <Image>259</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
-                    </Frames>
-                  </Loop>
-                </Loops>
-              </View>
-              <View>
-                <ID>2</ID>
-                <Name>SkyScraper</Name>
-                <Loops>
-                  <Loop>
-                    <ID>0</ID>
-                    <RunNextLoop>False</RunNextLoop>
-                    <Frames>
-                      <ViewFrame>
-                        <Delay>50</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>0</ID>
-                        <Image>331</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
-                      <ViewFrame>
-                        <Delay>100</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>1</ID>
-                        <Image>330</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
                     </Frames>
