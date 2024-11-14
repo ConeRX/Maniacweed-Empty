@@ -692,7 +692,7 @@
                   </UnloadedRoom>
                 </UnloadedRooms>
               </UnloadedRoomFolder>
-              <UnloadedRoomFolder Name="Ground floor">
+              <UnloadedRoomFolder Name="First floor">
                 <SubFolders />
                 <UnloadedRooms>
                   <UnloadedRoom>
@@ -708,7 +708,7 @@
                     <Number>8</Number>
                   </UnloadedRoom>
                   <UnloadedRoom>
-                    <Description xml:space="preserve">Hall Ground Floor</Description>
+                    <Description xml:space="preserve">Hall First Floor</Description>
                     <Number>9</Number>
                   </UnloadedRoom>
                   <UnloadedRoom>
@@ -729,11 +729,11 @@
                   </UnloadedRoom>
                 </UnloadedRooms>
               </UnloadedRoomFolder>
-              <UnloadedRoomFolder Name="First floor">
+              <UnloadedRoomFolder Name="Second floor">
                 <SubFolders />
                 <UnloadedRooms>
                   <UnloadedRoom>
-                    <Description xml:space="preserve">Hall First Floor</Description>
+                    <Description xml:space="preserve">Hall Second Floor</Description>
                     <Number>14</Number>
                   </UnloadedRoom>
                   <UnloadedRoom>
@@ -3421,7 +3421,7 @@
         </GlobalVariable>
         <GlobalVariable>
           <DefaultValue>9</DefaultValue>
-          <Name>BernHallGroundFloor</Name>
+          <Name>BernHallFirstFloor</Name>
           <Type>int</Type>
         </GlobalVariable>
         <GlobalVariable>
@@ -3446,7 +3446,7 @@
         </GlobalVariable>
         <GlobalVariable>
           <DefaultValue>14</DefaultValue>
-          <Name>BernHallFirstFloor</Name>
+          <Name>BernHallSecondFloor</Name>
           <Type>int</Type>
         </GlobalVariable>
         <GlobalVariable>
