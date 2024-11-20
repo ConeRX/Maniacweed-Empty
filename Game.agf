@@ -3119,7 +3119,7 @@
         <OutlineStyle>Automatic</OutlineStyle>
         <PointSize>9</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
-        <SourceFilename>assets/xpaider2.ttf</SourceFilename>
+        <SourceFilename>assets/agsfnt4.ttf</SourceFilename>
         <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>0</VerticalOffset>
       </Font>
