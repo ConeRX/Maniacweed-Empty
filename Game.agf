@@ -8702,18 +8702,18 @@
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="30" Width="59" Height="87" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="30" Width="58" Height="86" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>87</ImportHeight>
-                      <ImportWidth>59</ImportWidth>
+                      <ImportHeight>86</ImportHeight>
+                      <ImportWidth>58</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportMethod>BottomLeft</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
