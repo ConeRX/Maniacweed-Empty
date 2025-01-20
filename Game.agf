@@ -1233,7 +1233,7 @@
                 <OnClick>btnOptions_OnClick</OnClick>
                 <PushedImage>83</PushedImage>
                 <Text>Default</Text>
-                <TextAlignment>TopCenter</TextAlignment>
+                <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
                 <Top>48</Top>
                 <Translated>True</Translated>
@@ -1258,7 +1258,7 @@
                 <OnClick>btnOptions_OnClick</OnClick>
                 <PushedImage>83</PushedImage>
                 <Text>Save</Text>
-                <TextAlignment>TopCenter</TextAlignment>
+                <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
                 <Top>66</Top>
                 <Translated>True</Translated>
@@ -1283,7 +1283,7 @@
                 <OnClick>btnOptions_OnClick</OnClick>
                 <PushedImage>83</PushedImage>
                 <Text>Load</Text>
-                <TextAlignment>TopCenter</TextAlignment>
+                <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
                 <Top>83</Top>
                 <Translated>True</Translated>
@@ -1308,7 +1308,7 @@
                 <OnClick>btnOptions_OnClick</OnClick>
                 <PushedImage>83</PushedImage>
                 <Text>Quit</Text>
-                <TextAlignment>TopCenter</TextAlignment>
+                <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
                 <Top>126</Top>
                 <Translated>True</Translated>
@@ -1333,7 +1333,7 @@
                 <OnClick>btnOptions_OnClick</OnClick>
                 <PushedImage>83</PushedImage>
                 <Text>Resume</Text>
-                <TextAlignment>TopCenter</TextAlignment>
+                <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
                 <Top>142</Top>
                 <Translated>True</Translated>
@@ -1477,7 +1477,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>32</Top>
+                <Top>31</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>8</Width>
@@ -1828,7 +1828,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>6</Top>
+                <Top>5</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>8</Width>
@@ -2215,7 +2215,7 @@
                 <Text xml:space="preserve">New Button</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>6</Top>
+                <Top>5</Top>
                 <Translated>True</Translated>
                 <Visible>True</Visible>
                 <Width>8</Width>
@@ -2321,7 +2321,7 @@
                 <OnClick>btnOptions_OnClick</OnClick>
                 <PushedImage>85</PushedImage>
                 <Text>No</Text>
-                <TextAlignment>TopCenter</TextAlignment>
+                <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>0</TextColor>
                 <Top>117</Top>
                 <Translated>True</Translated>
@@ -2559,7 +2559,7 @@
                 <OnClick>btnRestartYes_OnClick</OnClick>
                 <PushedImage>85</PushedImage>
                 <Text>Yes</Text>
-                <TextAlignment>TopCenter</TextAlignment>
+                <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
                 <Top>117</Top>
                 <Translated>True</Translated>
@@ -2584,7 +2584,7 @@
                 <OnClick>btnRestartNo_OnClick</OnClick>
                 <PushedImage>85</PushedImage>
                 <Text>No</Text>
-                <TextAlignment>TopCenter</TextAlignment>
+                <TextAlignment>MiddleCenter</TextAlignment>
                 <TextColor>8454</TextColor>
                 <Top>117</Top>
                 <Translated>True</Translated>
