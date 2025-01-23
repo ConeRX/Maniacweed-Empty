@@ -12,7 +12,7 @@
       <AntiAliasFonts>False</AntiAliasFonts>
       <AntiGlideMode>True</AntiGlideMode>
       <AttachDataToExe>False</AttachDataToExe>
-      <AudioIndexer>133</AudioIndexer>
+      <AudioIndexer>134</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BuildTargets>Windows</BuildTargets>
@@ -10129,18 +10129,18 @@
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
-                            <Delay>0</Delay>
+                            <Delay>3</Delay>
                             <Flipped>False</Flipped>
                             <ID>1</ID>
                             <Image>269</Image>
-                            <Sound>0</Sound>
+                            <Sound>134</Sound>
                           </ViewFrame>
                           <ViewFrame>
-                            <Delay>0</Delay>
+                            <Delay>3</Delay>
                             <Flipped>False</Flipped>
                             <ID>2</ID>
                             <Image>268</Image>
-                            <Sound>0</Sound>
+                            <Sound>134</Sound>
                           </ViewFrame>
                         </Frames>
                       </Loop>
@@ -10156,18 +10156,18 @@
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
-                            <Delay>0</Delay>
+                            <Delay>3</Delay>
                             <Flipped>True</Flipped>
                             <ID>1</ID>
                             <Image>269</Image>
-                            <Sound>0</Sound>
+                            <Sound>134</Sound>
                           </ViewFrame>
                           <ViewFrame>
-                            <Delay>0</Delay>
+                            <Delay>3</Delay>
                             <Flipped>True</Flipped>
                             <ID>2</ID>
                             <Image>268</Image>
-                            <Sound>0</Sound>
+                            <Sound>134</Sound>
                           </ViewFrame>
                         </Frames>
                       </Loop>
@@ -10183,18 +10183,18 @@
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
-                            <Delay>0</Delay>
+                            <Delay>3</Delay>
                             <Flipped>False</Flipped>
                             <ID>1</ID>
                             <Image>269</Image>
-                            <Sound>0</Sound>
+                            <Sound>134</Sound>
                           </ViewFrame>
                           <ViewFrame>
-                            <Delay>0</Delay>
+                            <Delay>3</Delay>
                             <Flipped>False</Flipped>
                             <ID>2</ID>
                             <Image>268</Image>
-                            <Sound>0</Sound>
+                            <Sound>134</Sound>
                           </ViewFrame>
                         </Frames>
                       </Loop>
@@ -10210,18 +10210,18 @@
                             <Sound>0</Sound>
                           </ViewFrame>
                           <ViewFrame>
-                            <Delay>0</Delay>
+                            <Delay>3</Delay>
                             <Flipped>False</Flipped>
                             <ID>1</ID>
                             <Image>269</Image>
-                            <Sound>0</Sound>
+                            <Sound>134</Sound>
                           </ViewFrame>
                           <ViewFrame>
-                            <Delay>0</Delay>
+                            <Delay>3</Delay>
                             <Flipped>False</Flipped>
                             <ID>2</ID>
                             <Image>268</Image>
-                            <Sound>0</Sound>
+                            <Sound>134</Sound>
                           </ViewFrame>
                         </Frames>
                       </Loop>
@@ -11820,6 +11820,19 @@ ShowHotspots.Disable();</Description>
                 <SourceFileName>Sound/OpenMailbox.ogg</SourceFileName>
                 <Type>3</Type>
                 <FileLastModifiedDate>2024-10-13 21:26:44Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <BundlingType>InGameEXE</BundlingType>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <DefaultVolume>-1</DefaultVolume>
+                <FileType>OGG</FileType>
+                <ID>27</ID>
+                <Index>134</Index>
+                <ScriptName>aTentacleStep</ScriptName>
+                <SourceFileName>Z:\mmm\assets\audio\TentacleStep.ogg</SourceFileName>
+                <Type>3</Type>
+                <FileLastModifiedDate>2025-01-23 20:21:13Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
