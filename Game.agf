@@ -10140,7 +10140,7 @@
                             <Flipped>False</Flipped>
                             <ID>2</ID>
                             <Image>268</Image>
-                            <Sound>134</Sound>
+                            <Sound>0</Sound>
                           </ViewFrame>
                         </Frames>
                       </Loop>
@@ -10167,7 +10167,7 @@
                             <Flipped>True</Flipped>
                             <ID>2</ID>
                             <Image>268</Image>
-                            <Sound>134</Sound>
+                            <Sound>0</Sound>
                           </ViewFrame>
                         </Frames>
                       </Loop>
@@ -10194,7 +10194,7 @@
                             <Flipped>False</Flipped>
                             <ID>2</ID>
                             <Image>268</Image>
-                            <Sound>134</Sound>
+                            <Sound>0</Sound>
                           </ViewFrame>
                         </Frames>
                       </Loop>
@@ -10221,7 +10221,7 @@
                             <Flipped>False</Flipped>
                             <ID>2</ID>
                             <Image>268</Image>
-                            <Sound>134</Sound>
+                            <Sound>0</Sound>
                           </ViewFrame>
                         </Frames>
                       </Loop>
