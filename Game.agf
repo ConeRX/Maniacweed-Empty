@@ -12,7 +12,7 @@
       <AntiAliasFonts>False</AntiAliasFonts>
       <AntiGlideMode>True</AntiGlideMode>
       <AttachDataToExe>False</AttachDataToExe>
-      <AudioIndexer>134</AudioIndexer>
+      <AudioIndexer>135</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BuildTargets>Windows</BuildTargets>
@@ -11833,6 +11833,19 @@ ShowHotspots.Disable();</Description>
                 <SourceFileName>Z:\mmm\assets\audio\TentacleStep.ogg</SourceFileName>
                 <Type>3</Type>
                 <FileLastModifiedDate>2025-01-23 20:21:13Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <BundlingType>InGameEXE</BundlingType>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <DefaultVolume>-1</DefaultVolume>
+                <FileType>OGG</FileType>
+                <ID>28</ID>
+                <Index>135</Index>
+                <ScriptName>aClick</ScriptName>
+                <SourceFileName>Z:\mmm\assets\audio\aClick.ogg</SourceFileName>
+                <Type>3</Type>
+                <FileLastModifiedDate>2025-02-02 17:54:03Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
