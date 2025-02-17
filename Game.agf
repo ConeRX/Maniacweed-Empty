@@ -12,7 +12,7 @@
       <AntiAliasFonts>False</AntiAliasFonts>
       <AntiGlideMode>True</AntiGlideMode>
       <AttachDataToExe>False</AttachDataToExe>
-      <AudioIndexer>135</AudioIndexer>
+      <AudioIndexer>137</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BuildTargets>Windows</BuildTargets>
@@ -11479,7 +11479,7 @@ ShowHotspots.Disable();</Description>
                 <FileType>MIDI</FileType>
                 <ID>19</ID>
                 <Index>109</Index>
-                <ScriptName>aVaporwave</ScriptName>
+                <ScriptName>aVaporwaveMIDI</ScriptName>
                 <SourceFileName xml:space="preserve">D:\Downloads\music cc0\Vaporwave.mid</SourceFileName>
                 <Type>1</Type>
                 <FileLastModifiedDate>2024-09-30 06:38:27Z</FileLastModifiedDate>
@@ -11570,10 +11570,36 @@ ShowHotspots.Disable();</Description>
                 <FileType>MIDI</FileType>
                 <ID>20</ID>
                 <Index>127</Index>
-                <ScriptName>aManiacIntro</ScriptName>
+                <ScriptName>aManiacIntroMIDI</ScriptName>
                 <SourceFileName>Music/ManiacIntro.mid</SourceFileName>
                 <Type>2</Type>
                 <FileLastModifiedDate>2024-10-03 22:37:02Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <BundlingType>InGameEXE</BundlingType>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <DefaultVolume>-1</DefaultVolume>
+                <FileType>OGG</FileType>
+                <ID>29</ID>
+                <Index>136</Index>
+                <ScriptName>aManiacIntro</ScriptName>
+                <SourceFileName>Z:\mmm\assets\audio\aManiacIntro.ogg</SourceFileName>
+                <Type>2</Type>
+                <FileLastModifiedDate>2025-02-17 02:47:13Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <BundlingType>InGameEXE</BundlingType>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <DefaultVolume>-1</DefaultVolume>
+                <FileType>OGG</FileType>
+                <ID>30</ID>
+                <Index>137</Index>
+                <ScriptName>aVaporwaveOGG</ScriptName>
+                <SourceFileName>Z:\mmm\assets\audio\Vaporwave.ogg</SourceFileName>
+                <Type>2</Type>
+                <FileLastModifiedDate>2025-02-17 02:48:12Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
