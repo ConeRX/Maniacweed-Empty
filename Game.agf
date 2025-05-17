@@ -25,7 +25,7 @@
       <DefaultRoomMaskResolution>1</DefaultRoomMaskResolution>
       <Description />
       <DeveloperName />
-      <DeveloperURL />
+      <DeveloperURL>https://maniac-mansion-mania.com</DeveloperURL>
       <DialogOptionsBackwards>False</DialogOptionsBackwards>
       <DialogOptionsBullet>0</DialogOptionsBullet>
       <DialogOptionsGUI>0</DialogOptionsGUI>
@@ -57,7 +57,7 @@
       <OptimizeSpriteStorage>True</OptimizeSpriteStorage>
       <PixelPerfect>False</PixelPerfect>
       <PlaySoundOnScore>0</PlaySoundOnScore>
-      <ReleaseDate>2007-08-19</ReleaseDate>
+      <ReleaseDate>2025-05-19</ReleaseDate>
       <RenderAtScreenResolution>UserDefined</RenderAtScreenResolution>
       <RoomTransition>CrossFade</RoomTransition>
       <RunGameLoopsWhileDialogOptionsDisplayed>True</RunGameLoopsWhileDialogOptionsDisplayed>
