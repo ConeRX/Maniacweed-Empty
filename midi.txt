@@ -1,4 +1,4 @@
-In order to use MIDI playback in your game, you need to set up timidity. AGS doesn't include these files in a template so need to copy and set them up them yourself.
+In order to use MIDI playback in your game, you need to set up timidity. We can't include it in the template due to technical limitations so you need to copy and set it up yourself.
 Create a folder named "timidity" in your games root folder (that's were your Game.agf resides) and copy all patch files from http://www.gamers.org/pub/idgames/music/dgguspat.zip into the timidity folder.
 Then create a file named "timidity.cfg" in your games root folder which must contain the following code block. Alternatively, you can grab the timididy.cfg file and folder from the templates github repository: https://github.com/ManiacMansionMania/Maniacweed-Bernard
 
