@@ -38,8 +38,8 @@
       <EnforceObjectBasedScript>True</EnforceObjectBasedScript>
       <GUIAlphaStyle>MultiplyTranslucenceSrcBlend</GUIAlphaStyle>
       <GUIDAsString>{1ba3815b-d248-466f-9f32-0cdb4dfc4037}</GUIDAsString>
-      <GameFileName xml:space="preserve">Bernard - Maniacweed - Starterpack</GameFileName>
-      <GameName xml:space="preserve">Bernard - Maniacweed - Starterpack</GameName>
+      <GameFileName>maniacweed_empty</GameFileName>
+      <GameName xml:space="preserve">Maniacweed Empty Template</GameName>
       <GameTextEncoding>utf-8</GameTextEncoding>
       <Genre>Adventure</Genre>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
@@ -62,7 +62,7 @@
       <RoomTransition>CrossFade</RoomTransition>
       <RunGameLoopsWhileDialogOptionsDisplayed>True</RunGameLoopsWhileDialogOptionsDisplayed>
       <SaveGameFileExtension />
-      <SaveGameFolderName xml:space="preserve">Bernard - Maniacweed - Starterpack</SaveGameFolderName>
+      <SaveGameFolderName xml:space="preserve">Maniacweed Empty Template</SaveGameFolderName>
       <SaveScreenshots>True</SaveScreenshots>
       <ScaleCharacterSpriteOffsets>False</ScaleCharacterSpriteOffsets>
       <ScaleMovementSpeedWithMaskResolution>False</ScaleMovementSpeedWithMaskResolution>
