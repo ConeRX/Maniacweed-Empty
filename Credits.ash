@@ -3,11 +3,12 @@
 // Author: Andrew MacCormack (SSH)
 //   Please use the PM function on the AGS forums to contact
 //   me about problems with this module
+// Update for AGS 3.6.1: Cone Arex
 // 
 // Abstract: Provides scrolling credits of text or images
 // Dependencies:
 //
-//   AGS 2.71RC2 or later
+//   AGS 3.6.1 or later
 //
 // Functions:
 // 	 Credits[n].AddTitle(String t, optional int x, optional int font, optional int colour)
@@ -145,6 +146,7 @@
 // 27 Jul 06: v1.17 Added extra, programmable, static special characters
 // 16 Feb 07: v1.18 Added translation support and use new strings only
 // 26 Oct 07: v1.19 Actually made translations work!
+// 19 May 25: v1.20 Updated to make it work in AGS 3.6.1
 //
 // Licence:
 //
