@@ -2510,47 +2510,11 @@
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <Properties />
             <Interactions>
-              <Event Index="0">iHatchOpener_OtherClick</Event>
-              <Event Index="1">iHatchOpener_OtherClick</Event>
+              <Event Index="0" />
+              <Event Index="1" />
               <Event Index="2" />
-              <Event Index="3">iHatchOpener_OtherClick</Event>
-              <Event Index="4">iHatchOpener_OtherClick</Event>
-            </Interactions>
-          </InventoryItem>
-          <InventoryItem>
-            <CursorImage>0</CursorImage>
-            <Description>Fernbedienung</Description>
-            <HotspotX>0</HotspotX>
-            <HotspotY>0</HotspotY>
-            <ID>2</ID>
-            <Image>232</Image>
-            <Name>iRemoteControl</Name>
-            <PlayerStartsWithItem>False</PlayerStartsWithItem>
-            <Properties />
-            <Interactions>
-              <Event Index="0">iRemoteControl_OtherClick</Event>
-              <Event Index="1">iRemoteControl_OtherClick</Event>
-              <Event Index="2" />
-              <Event Index="3">iRemoteControl_OtherClick</Event>
-              <Event Index="4">iRemoteControl_OtherClick</Event>
-            </Interactions>
-          </InventoryItem>
-          <InventoryItem>
-            <CursorImage>0</CursorImage>
-            <Description>Kissen</Description>
-            <HotspotX>0</HotspotX>
-            <HotspotY>0</HotspotY>
-            <ID>3</ID>
-            <Image>264</Image>
-            <Name>iPillow</Name>
-            <PlayerStartsWithItem>False</PlayerStartsWithItem>
-            <Properties />
-            <Interactions>
-              <Event Index="0">iPillow_OtherClick</Event>
-              <Event Index="1">iPillow_OtherClick</Event>
-              <Event Index="2" />
-              <Event Index="3">iPillow_OtherClick</Event>
-              <Event Index="4">iPillow_OtherClick</Event>
+              <Event Index="3" />
+              <Event Index="4" />
             </Interactions>
           </InventoryItem>
         </InventoryItems>
