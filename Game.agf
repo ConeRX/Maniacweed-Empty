@@ -9300,7 +9300,7 @@
         <Views>
           <View>
             <ID>1</ID>
-            <Name>vUnsichtbar</Name>
+            <Name>vEmpty</Name>
             <Loops>
               <Loop>
                 <ID>0</ID>
