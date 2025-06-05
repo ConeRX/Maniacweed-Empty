@@ -6,3 +6,4 @@ backup*
 warnings.log
 *.crm.user
 assets/*
+Game.agf.user
